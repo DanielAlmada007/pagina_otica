@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7f1853d4.css",
+    "main.js": "./static/js/main.d740c5a6.js",
+    "static/js/787.19c034d5.chunk.js": "./static/js/787.19c034d5.chunk.js",
+    "static/media/capa.png": "./static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "./index.html",
+    "main.7f1853d4.css.map": "./static/css/main.7f1853d4.css.map",
+    "main.d740c5a6.js.map": "./static/js/main.d740c5a6.js.map",
+    "787.19c034d5.chunk.js.map": "./static/js/787.19c034d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1853d4.css",
+    "static/js/main.d740c5a6.js"
+  ]
+}
